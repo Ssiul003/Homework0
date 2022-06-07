@@ -12,5 +12,7 @@ package mynameis;
         first= sc.next();
         last=sc.next();
         
-        System.out.println("My name is :"+ first +" "+last):
+        System.out.println("My name is :"+ first +" "+last);
+      }
+    }
   
